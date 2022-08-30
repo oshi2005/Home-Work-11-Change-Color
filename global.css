@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --main-color: #1f1f1f;
+  --secondary-color: #7aa93c;
+  --text-color: #735c14;
+  --main-font: "Fira Sans", sans-serif;
+}
+.grid {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
